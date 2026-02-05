@@ -19,8 +19,8 @@ Currently, I'm architecting AI-powered platforms and exploring advanced animatio
 
 #### 📫 Let's Connect
 * **Portfolio:** [mansoori.dev](https://mansoori.dev)
-* **Email:** [ایمیل خودت را بنویس]
-* **LinkedIn:** [لینک لینکدین خودت]
+* **Email:** [mm.project.8902@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/majid-mansouri-a8163866/]
 
 ---
 ⭐️ *Open to remote collaborations worldwide.*
