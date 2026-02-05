@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Majid Mansoori! 👋
 
-<!--
-**majidproject/majidproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Developer** with a passion for building scalable, high-performance web applications. I specialize in the JavaScript ecosystem, focusing on **Next.js** for the frontend and **NestJS** for robust backend systems.
 
-Here are some ideas to get you started:
+Currently, I'm architecting AI-powered platforms and exploring advanced animations with GSAP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠 Tech Stack & Arsenal
+* **Frontend:** React, Next.js 15 (App Router), TypeScript, TailwindCSS, Framer Motion, GSAP.
+* **Backend:** Node.js, NestJS, Express, Supabase.
+* **Database:** PostgreSQL, MongoDB, Redis.
+* **DevOps & Tools:** Docker, Git, CI/CD, Linux.
+
+#### 🔭 What I'm working on
+* Developing high-performance **SaaS platforms** with complex RBAC.
+* Building **AI-integrated** web solutions (LLMs & Automation).
+* Creating **Liquid Motion** web experiences for digital agencies.
+
+#### 📫 Let's Connect
+* **Portfolio:** [mansoori.dev](https://mansoori.dev)
+* **Email:** [ایمیل خودت را بنویس]
+* **LinkedIn:** [لینک لینکدین خودت]
+
+---
+⭐️ *Open to remote collaborations worldwide.*
