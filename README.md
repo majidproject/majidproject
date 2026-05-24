@@ -7,7 +7,7 @@ Currently, I'm architecting AI-powered platforms and exploring advanced animatio
 ---
 
 #### 🛠 Tech Stack & Arsenal
-* **Frontend:** React, Next.js 15 (App Router), TypeScript, TailwindCSS, Framer Motion, GSAP.
+* **Frontend:** React, Next.js 16 (App Router), TypeScript, TailwindCSS, Framer Motion, GSAP.
 * **Backend:** Node.js, NestJS, Express, Supabase.
 * **Database:** PostgreSQL, MongoDB, Redis.
 * **DevOps & Tools:** Docker, Git, CI/CD, Linux.
